@@ -1,0 +1,45 @@
+body {
+
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+h1 {
+  color: red;
+	font-size: 32px;
+  font-family: Palatino,'Palatino Linotype', serif;
+}
+
+h2 {
+	font-size: 80px;
+  color: #fff;
+}
+.block{
+  float: left;
+}
+
+.hero {
+    background-image: url('https://oschool.ci/wp-content/uploads/2018/05/jacky-chiu-544909-unsplash.jpg');
+    background-size: cover;
+  font-family: "Trébuchet MS", Helvetica, sans-serif;
+  font-size:
+  padding: 300px 0;
+	margin: 30px;
+}
+
+
+.hero p {
+    font-size: 4rem;
+    color: #fff;
+}
+
+.hero a {
+	color: #00FFAA;
+	font-size: 1.25em;
+	text-decoration: none;
+}
+#footer{
+  font-size: 0.75rem;
+}
